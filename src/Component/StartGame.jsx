@@ -4,7 +4,7 @@ import { Button } from "../styled/Button";
 const StartGame = ({toggle}) => {
   return (
     <Container>
-      <div><img src="Dice_game/public/dice_1.png " alt="dices" /></div>
+      <div><img src="Dice_game/public/dices 1.png " alt="dices" /></div>
       <div className="content">
         <h1>DICE GAME</h1>
         <Button onClick={toggle}>Play Now</Button>
